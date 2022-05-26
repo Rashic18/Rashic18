@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript and C++
 - 🌱 I’m currently learning JavaScript and C++
 - 💞️ I’m looking to collaborate on both of the two
-- 📫 How to reach 
+- 📫 Find me here
 
 <!---
 Rashic18/Rashic18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
